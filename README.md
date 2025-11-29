@@ -7,6 +7,6 @@ I'm doing stuff at places like [YouTube](https://www.youtube.com/user/darkbahamu
 
 ![](https://github-profile-trophy.vercel.app/?username=DarkBahamut162)
 
-![](https://github-readme-stats.vercel.app/api?username=darkbahamut162&show_icons=true&locale=en)
+![](https://github-readme-stats-tawny-ten-96.vercel.app/api?username=darkbahamut162&show_icons=true&locale=en)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=darkbahamut162&theme=default)
+![](https://github-readme-streak-stats-sepia-xi.vercel.app?user=DarkBahamut162)
